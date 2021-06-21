@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5uPkLw2dfk1_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Adverse Selection Game</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Adverse_Selection_Game_ORG">
+    <organization identifier="Adverse_Selection_Game_ORG">
+      <title>Adverse Selection Game</title>
+      <item identifier="Course_1_SCO" isvisible="true" identifierref="__5uPkLw2dfk1_course_id_RES">
+        <title>Adverse Selection Game</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5uPkLw2dfk1_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6mnGmjAckVi_DX408_DY408_CX353_CY49.png" />
+      <file href="story_content/5n0Zxnbqazs_44100_56_0.mp3" />
+      <file href="story_content/5eCJJrnYc9U_captions.js" />
+      <file href="story_content/5kHERm7OO8M_44100_56_0.mp3" />
+      <file href="story_content/5hwib4j84rr_captions.js" />
+      <file href="story_content/6WgGIhg1Svm_44100_56_0.mp3" />
+      <file href="story_content/642qJQtxW3s_captions.js" />
+      <file href="story_content/5rLuaOCI47D_44100_56_0.mp3" />
+      <file href="story_content/6dBsCmbvzQV_captions.js" />
+      <file href="story_content/5kyKxCnufee_44100_56_0.mp3" />
+      <file href="story_content/5iaezUQ7NFB_captions.js" />
+      <file href="story_content/5wPNcDSbIYi_44100_56_0.mp3" />
+      <file href="story_content/5v6PrucMd9H_captions.js" />
+      <file href="story_content/6lL0Pwatuba_44100_56_0.mp3" />
+      <file href="story_content/5ugYHotcUEW_captions.js" />
+      <file href="story_content/6j9hmlLfloZ_44100_56_0.mp3" />
+      <file href="story_content/5ee8wPjeUQH_captions.js" />
+      <file href="story_content/5xa813qJ1G7_44100_56_0.mp3" />
+      <file href="story_content/5zJ2eIXPCxU_captions.js" />
+      <file href="story_content/6eRNNmxmSka_44100_56_0.mp3" />
+      <file href="story_content/6O0n177wZfm_captions.js" />
+      <file href="story_content/5en9ETRnjJ9_44100_56_0.mp3" />
+      <file href="story_content/65RFYgOQMB8_captions.js" />
+      <file href="story_content/5hmqe296PPz_44100_56_0.mp3" />
+      <file href="story_content/6paeWNx4WOp_captions.js" />
+      <file href="story_content/6A6h2zv66oQ_44100_56_0.mp3" />
+      <file href="story_content/5wKtWmQLc4M_captions.js" />
+      <file href="story_content/6N24JIDmley_44100_56_0.mp3" />
+      <file href="story_content/5jn5F8bGxFn_captions.js" />
+      <file href="story_content/5jvjbmShyD7_44100_56_0.mp3" />
+      <file href="story_content/6r3M8XNiYh5_captions.js" />
+      <file href="story_content/6KbzNLdX7fp_44100_56_0.mp3" />
+      <file href="story_content/6MafXBuuLPb_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6DPuoUfp2AA.jpg" />
+      <file href="mobile/txt__default_6KVi3Iae7Q2.png" />
+      <file href="mobile/txt__default_6OfhV4XJZRs.png" />
+      <file href="mobile/txt__default_6EXY0nSDt6t.png" />
+      <file href="mobile/txt__default_6Wz6C3OoCvq.png" />
+      <file href="mobile/txt__default_5oZswe8sMYW.png" />
+      <file href="mobile/txt__default_5ZgiormRmng.png" />
+      <file href="mobile/txt__default_5W2L0ZdvBA1.png" />
+      <file href="mobile/txt__default_6kEoTxo7yXT.png" />
+      <file href="mobile/txt__default_5lV9FVw4u5d.png" />
+      <file href="mobile/txt__default_62TknCn47bY.png" />
+      <file href="mobile/txt__default_647r8vwBoUn.png" />
+      <file href="mobile/txt__default_68vu7CxGmQf.png" />
+      <file href="mobile/txt__default_6Z4JDu8tf1f.png" />
+      <file href="mobile/txt__default_5lFtMoiJcM3.png" />
+      <file href="mobile/txt__default_6WwQkWy8LwP.png" />
+      <file href="mobile/txt__default_6WVKJSr3KA9.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5n6QZ8oWRQx.js" />
+      <file href="html5/data/js/5tIpZRkio0R.js" />
+      <file href="html5/data/js/5xpHMDAMFVB.js" />
+      <file href="html5/data/js/6CDRrjhQSIv.js" />
+      <file href="html5/data/js/6feNdGxukIO.js" />
+      <file href="html5/data/js/6gY6WDnc9EY.js" />
+      <file href="html5/data/js/6JAP6SHZ4J6.js" />
+      <file href="html5/data/js/6knk32wd4qk.js" />
+      <file href="html5/data/js/6PZ9kvtBsnA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/indexAPI.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
